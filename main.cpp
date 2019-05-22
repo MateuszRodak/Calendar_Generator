@@ -2,13 +2,11 @@
 #include <iostream>
 #include <string.h>
 #include <string>
-#include <linguist>
 
 using namespace std;
 
 int main()
 {
-
 	int miesiac,rok,dzien;
 	int wskazany_miesiac;
 	long przesuniecie_dni = 0;
